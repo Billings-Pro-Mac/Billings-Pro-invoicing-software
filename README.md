@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<a href="https://catherinbor.github.io/.github/billingspro">
+<a href="https://tanahavlic8094.github.io/.github/billingspro">
 <img src="https://img.shields.io/badge/GET_Billings_Pro-darkgreen?style=for-the-badge&logo=apple" alt="GET Billings Pro">
 </a>
 </div>
